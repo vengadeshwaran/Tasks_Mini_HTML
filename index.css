@@ -1,0 +1,16 @@
+h1
+{
+    color: rgb(255, 0, 0);
+    font-family: 'Montserrat', sans-serif;
+    padding: 15px;
+    font-size: 25;
+}
+ol{
+    font-weight: bolder;
+    list-style-type: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15;
+}
+li{
+    padding: 10px;
+}
